@@ -8,17 +8,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }, 1500); // Tempo de exibição da página de loading
   });
 
-  const authorInfo = document.querySelector('.author-info');
-const authorBtn = document.getElementById('authorBtn');
-authorBtn.addEventListener('click', toggleAuthorInfo);
-
-function toggleAuthorInfo() {
-  if (authorInfo.style.display === 'none') {
-    authorInfo.style.display = 'block';
-  } else {
-    authorInfo.style.display = 'none';
-  }
-}
   
   let timer;
   let seconds = 0;
