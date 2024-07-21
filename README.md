@@ -4,7 +4,8 @@ Bem-vindo ao projeto do Cronômetro Digital! Este repositório contém o código
 
 ## Demonstração
 
-Você pode visualizar uma demonstração ao vivo do cronômetro [aqui](https://thalesjuann.github.io/CronometroDigital/).
+Você pode visualizar uma demonstração ao vivo do cronômetro [aqui](https://thalesjuann.github.io/CronometroDigital/){:target="_blank"}.
+
 
 ## Estrutura do Projeto
 
